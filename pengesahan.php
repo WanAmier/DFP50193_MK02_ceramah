@@ -18,7 +18,6 @@ $jumlah = $harga_seunit * $slot;
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-
 <div class="container">
     <h1>Pendaftaran Berjaya!</h1>
 

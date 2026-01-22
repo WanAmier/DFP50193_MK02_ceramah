@@ -12,9 +12,9 @@
     <h1>Ceramah Profesional: "Kecemerlangan Akademik & Kerjaya"</h1>
 
     <div class="speaker">
-        <img src="https://via.placeholder.com/150" alt="Penceramah">
+        <img src="amier.jpg" alt="Penceramah">
         <div>
-            <h2>Dr. Ahmad Firdaus</h2>
+            <h2>Wan Muhammad Amier Hamzah Bin Wan Zefri</h2>
             <p><b>Gelaran:</b> Pensyarah Kanan</p>
             <p><b>Kepakaran:</b> Pembangunan Kerjaya & Motivasi</p>
         </div>
@@ -27,13 +27,13 @@
         <h3>Logistik</h3>
         <p><b>Tarikh:</b> 15 Mac 2026</p>
         <p><b>Masa:</b> 9.00 pagi - 12.00 tengah hari</p>
-        <p><b>Lokasi:</b> Dewan Utama, Universiti ABC</p>
+        <p><b>Lokasi:</b> Dewan Utama, Politeknik Tuanku Syed Sirajuddin</p>
 
         <h3>Yuran</h3>
         <p>RM 250.00 seorang</p>
 
         <h3>Hubungan</h3>
-        <p>Email: ceramah@universitiabc.edu.my | Tel: 03-12345678</p>
+        <p>Email: amierhamzah2005@gmail.com | Tel: 013 351-5866</p>
     </div>
 
     <div class="form-section">
