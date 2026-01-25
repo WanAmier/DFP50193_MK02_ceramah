@@ -2,7 +2,7 @@
 <html lang="ms">
 <head>
     <meta charset="UTF-8">
-    <title>Ceramah Profesional Berbayar</title>
+    <title>Ceramah Profesional</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
 </head>
@@ -12,10 +12,10 @@
     <h1>Ceramah Profesional: "Kecemerlangan Akademik & Kerjaya"</h1>
 
     <div class="speaker">
-        <img src="amier.jpg" alt="Penceramah">
+        <img src="lecturer.jpg" alt="Penceramah">
         <div>
-            <h2>Wan Muhammad Amier Hamzah Bin Wan Zefri</h2>
-            <p><b>Gelaran:</b> Pensyarah Kanan</p>
+            <h2>NOR ZURAIDA BINTI MOHD GAMINAN</h2>
+            <p><b>Gelaran:</b> Ketua Program DIT (Software & Application Development)</p>
             <p><b>Kepakaran:</b> Pembangunan Kerjaya & Motivasi</p>
         </div>
     </div>
