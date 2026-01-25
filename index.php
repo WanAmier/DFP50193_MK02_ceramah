@@ -2,7 +2,7 @@
 <html lang="ms">
 <head>
     <meta charset="UTF-8">
-    <title>Ceramah Profesional</title>
+    <title>Ceramah Software & Application</title>
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
 </head>
@@ -16,7 +16,7 @@
         <div>
             <h2>NOR ZURAIDA BINTI MOHD GAMINAN</h2>
             <p><b>Gelaran:</b> Ketua Program DIT (Software & Application Development)</p>
-            <p><b>Kepakaran:</b> Pembangunan Kerjaya & Motivasi</p>
+            <p><b>Kepakaran:</b> Pembangunan Teknologi Software & Application 
         </div>
     </div>
 
@@ -74,7 +74,7 @@
     </div>
 
     <footer>
-        <p>&copy; 2026 Ceramah Profesional</p>
+        <p>&copy; 2026 Ceramah Software & Application</p>
     </footer>
 </div>
 
