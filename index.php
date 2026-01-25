@@ -12,7 +12,7 @@
     <h1>Ceramah Profesional: "Kecemerlangan Akademik & Kerjaya"</h1>
 
     <div class="speaker">
-        <img src="lecturer.jpg" alt="Penceramah">
+        <img src="lecturer.jpeg" alt="Penceramah">
         <div>
             <h2>NOR ZURAIDA BINTI MOHD GAMINAN</h2>
             <p><b>Gelaran:</b> Ketua Program DIT (Software & Application Development)</p>
