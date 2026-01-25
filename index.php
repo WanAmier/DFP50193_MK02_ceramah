@@ -9,7 +9,7 @@
 <body>
 
 <div class="container">
-    <h1>Ceramah Profesional: "Kecemerlangan Akademik & Kerjaya"</h1>
+    <h1>Ceramah Software & Application</h1>
 
     <div class="speaker">
         <img src="lecturer.jpeg" alt="Penceramah">
